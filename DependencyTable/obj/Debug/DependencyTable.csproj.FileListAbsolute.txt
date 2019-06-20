@@ -1,0 +1,7 @@
+C:\su\temp\CsProject3-InstrSolF2018\DependencyTable\bin\Debug\DependencyTable.dll.config
+C:\su\temp\CsProject3-InstrSolF2018\DependencyTable\bin\Debug\DependencyTable.dll
+C:\su\temp\CsProject3-InstrSolF2018\DependencyTable\bin\Debug\DependencyTable.pdb
+C:\su\temp\CsProject3-InstrSolF2018\DependencyTable\obj\Debug\DependencyTable.csprojAssemblyReference.cache
+C:\su\temp\CsProject3-InstrSolF2018\DependencyTable\obj\Debug\DependencyTable.csproj.CoreCompileInputs.cache
+C:\su\temp\CsProject3-InstrSolF2018\DependencyTable\obj\Debug\DependencyTable.dll
+C:\su\temp\CsProject3-InstrSolF2018\DependencyTable\obj\Debug\DependencyTable.pdb

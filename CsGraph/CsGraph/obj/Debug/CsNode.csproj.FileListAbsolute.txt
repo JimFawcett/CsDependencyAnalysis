@@ -1,0 +1,11 @@
+c:\Temp\CsGraph\CsNode\obj\Debug\ResolveAssemblyReference.cache
+c:\Temp\CsGraph\CsNode\bin\Debug\CsNode.exe
+c:\Temp\CsGraph\CsNode\bin\Debug\CsNode.pdb
+c:\Temp\CsGraph\CsNode\obj\Debug\CsNode.exe
+c:\Temp\CsGraph\CsNode\obj\Debug\CsNode.pdb
+C:\su\CSE681\code\CsGraph\CsNode\obj\Debug\CsNode.exe
+C:\su\CSE681\code\CsGraph\CsNode\obj\Debug\CsNode.pdb
+C:\su\CSE681\code\CsGraph\CsNode\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\CsGraph\CsNode\bin\Debug\CsNode.exe
+C:\su\CSE681\code\CsGraph\CsNode\bin\Debug\CsNode.pdb
+C:\su\coretechnologies\CSharp\code\CsGraph\CsNode\obj\Debug\CsNode.exe

@@ -1,0 +1,6 @@
+C:\su\temp\CsProject3-InstrSolF2018\FileMgr\bin\Debug\Navigate.dll
+C:\su\temp\CsProject3-InstrSolF2018\FileMgr\bin\Debug\Navigate.pdb
+C:\su\temp\CsProject3-InstrSolF2018\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+C:\su\temp\CsProject3-InstrSolF2018\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\su\temp\CsProject3-InstrSolF2018\FileMgr\obj\Debug\Navigate.dll
+C:\su\temp\CsProject3-InstrSolF2018\FileMgr\obj\Debug\Navigate.pdb

@@ -1,0 +1,7 @@
+C:\su\temp\CsProject3-InstrSolF2018\TypeTable\bin\Debug\TypeTable.dll.config
+C:\su\temp\CsProject3-InstrSolF2018\TypeTable\bin\Debug\TypeTable.dll
+C:\su\temp\CsProject3-InstrSolF2018\TypeTable\bin\Debug\TypeTable.pdb
+C:\su\temp\CsProject3-InstrSolF2018\TypeTable\obj\Debug\TypeTable.csprojAssemblyReference.cache
+C:\su\temp\CsProject3-InstrSolF2018\TypeTable\obj\Debug\TypeTable.csproj.CoreCompileInputs.cache
+C:\su\temp\CsProject3-InstrSolF2018\TypeTable\obj\Debug\TypeTable.dll
+C:\su\temp\CsProject3-InstrSolF2018\TypeTable\obj\Debug\TypeTable.pdb

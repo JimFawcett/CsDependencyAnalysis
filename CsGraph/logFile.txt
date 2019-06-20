@@ -1,0 +1,49 @@
+
+                                             CodeAnalysis
+    ==============================================================================================
+     Fri Aug 19 11:08:39 2016
+     Path: C:\SU\Repository\CsGraph
+     Args: *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      37
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                CsGraph.cs   namespace                            CsGraph      13     246      36
+                CsGraph.cs      struct                               pair      17       5       3
+                CsGraph.cs       class                             CsNode      24      73      14
+                CsGraph.cs    function                             CsNode      28       5       1
+                CsGraph.cs    function                           addChild      64       3       2
+                CsGraph.cs    function                                Add      64       1       1
+                CsGraph.cs    function               getNextUnmarkedChild      70      11       4
+                CsGraph.cs    function                             unmark      81       4       1
+                CsGraph.cs    function                           ToString      86       9       1
+                CsGraph.cs       class                          Operation     100      17       3
+                CsGraph.cs    function                           doNodeOp     104       4       1
+                CsGraph.cs    function                           doEdgeOp     111       4       1
+                CsGraph.cs       class                            CsGraph     120      91      11
+                CsGraph.cs    function                            CsGraph     124       6       1
+                CsGraph.cs    function                       setOperation     133       5       1
+                CsGraph.cs    function                            addNode     162       3       1
+                CsGraph.cs    function                         clearMarks     168       4       1
+                CsGraph.cs    function                               walk     175      11       1
+                CsGraph.cs    function                               walk     189      19       2
+                CsGraph.cs       class                      demoOperation     214       8       2
+                CsGraph.cs    function                           doNodeOp     216       4       1
+                CsGraph.cs       class                               Test     222      37       2
+                CsGraph.cs      lambda                            []args)     224      33       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched    10 dirs
+   processed     2 files

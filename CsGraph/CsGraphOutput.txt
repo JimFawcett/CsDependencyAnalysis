@@ -1,0 +1,26 @@
+ 
+  Testing CsGraph class
+ =======================
+
+  starting walk at node1
+  not showing backtracks
+  node1 edge12
+  node2 edge23
+  node3
+  node2 edge24
+  node4
+  node5
+
+  starting walk at node2
+  show backtracks
+ -- node2 edge23
+ -- node3 edge31
+ -- node1
+ -- node3
+ -- node2 edge24
+ -- node4
+ -- node2
+ -- node5
+
+Press any key to continue . . .
+

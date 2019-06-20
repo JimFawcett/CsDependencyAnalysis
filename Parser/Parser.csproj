@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F648274D-662C-4A6F-81C6-8A2C74DAE085}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Parser</RootNamespace>
+    <AssemblyName>Parser</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;TEST_PARSER</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="RulesAndActions.cs" />
+    <Compile Include="IRuleandAction.cs" />
+    <Compile Include="Parser.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScopeStack.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DependencyTable\DependencyTable.csproj">
+      <Project>{f4bc5b24-d98d-4684-8a4d-f0707492e9ca}</Project>
+      <Name>DependencyTable</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Display\Display.csproj">
+      <Project>{7f6aee33-e7e5-4b83-b505-8be313defeb2}</Project>
+      <Name>Display</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Element\Element.csproj">
+      <Project>{49535db1-e8e6-4c4e-a9be-643faa9312f4}</Project>
+      <Name>Element</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SemiExp\SemiExp.csproj">
+      <Project>{8cd2f63b-9294-43bb-9f60-4fa966ebc48c}</Project>
+      <Name>SemiExp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Toker\Toker.csproj">
+      <Project>{4412581d-6195-495a-b65e-5a44e549e0c5}</Project>
+      <Name>Toker</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TypeTable\TypeTable.csproj">
+      <Project>{405c3aa2-42ce-466f-860a-461f98c7c620}</Project>
+      <Name>TypeTable</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

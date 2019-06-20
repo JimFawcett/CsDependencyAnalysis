@@ -1,0 +1,11 @@
+C:\su\temp\CsProject3-InstrSolF2018\SemiExp\bin\Debug\SemiExp.dll.config
+C:\su\temp\CsProject3-InstrSolF2018\SemiExp\bin\Debug\SemiExp.dll
+C:\su\temp\CsProject3-InstrSolF2018\SemiExp\bin\Debug\SemiExp.pdb
+C:\su\temp\CsProject3-InstrSolF2018\SemiExp\bin\Debug\Toker.dll
+C:\su\temp\CsProject3-InstrSolF2018\SemiExp\bin\Debug\Toker.pdb
+C:\su\temp\CsProject3-InstrSolF2018\SemiExp\bin\Debug\Toker.dll.config
+C:\su\temp\CsProject3-InstrSolF2018\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+C:\su\temp\CsProject3-InstrSolF2018\SemiExp\obj\Debug\SemiExp.csproj.CoreCompileInputs.cache
+C:\su\temp\CsProject3-InstrSolF2018\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\su\temp\CsProject3-InstrSolF2018\SemiExp\obj\Debug\SemiExp.dll
+C:\su\temp\CsProject3-InstrSolF2018\SemiExp\obj\Debug\SemiExp.pdb
