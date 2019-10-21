@@ -5,3 +5,9 @@ C:\su\temp\CsProject3-InstrSolF2018\DependencyTable\obj\Debug\DependencyTable.cs
 C:\su\temp\CsProject3-InstrSolF2018\DependencyTable\obj\Debug\DependencyTable.csproj.CoreCompileInputs.cache
 C:\su\temp\CsProject3-InstrSolF2018\DependencyTable\obj\Debug\DependencyTable.dll
 C:\su\temp\CsProject3-InstrSolF2018\DependencyTable\obj\Debug\DependencyTable.pdb
+C:\github\JimFawcett\CsDependencyAnalysis\DependencyTable\bin\Debug\DependencyTable.dll.config
+C:\github\JimFawcett\CsDependencyAnalysis\DependencyTable\bin\Debug\DependencyTable.dll
+C:\github\JimFawcett\CsDependencyAnalysis\DependencyTable\bin\Debug\DependencyTable.pdb
+C:\github\JimFawcett\CsDependencyAnalysis\DependencyTable\obj\Debug\DependencyTable.csprojAssemblyReference.cache
+C:\github\JimFawcett\CsDependencyAnalysis\DependencyTable\obj\Debug\DependencyTable.dll
+C:\github\JimFawcett\CsDependencyAnalysis\DependencyTable\obj\Debug\DependencyTable.pdb

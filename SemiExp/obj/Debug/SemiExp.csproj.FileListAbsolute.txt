@@ -9,3 +9,13 @@ C:\su\temp\CsProject3-InstrSolF2018\SemiExp\obj\Debug\SemiExp.csproj.CoreCompile
 C:\su\temp\CsProject3-InstrSolF2018\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
 C:\su\temp\CsProject3-InstrSolF2018\SemiExp\obj\Debug\SemiExp.dll
 C:\su\temp\CsProject3-InstrSolF2018\SemiExp\obj\Debug\SemiExp.pdb
+C:\github\JimFawcett\CsDependencyAnalysis\SemiExp\bin\Debug\SemiExp.dll.config
+C:\github\JimFawcett\CsDependencyAnalysis\SemiExp\bin\Debug\SemiExp.dll
+C:\github\JimFawcett\CsDependencyAnalysis\SemiExp\bin\Debug\SemiExp.pdb
+C:\github\JimFawcett\CsDependencyAnalysis\SemiExp\bin\Debug\Toker.dll
+C:\github\JimFawcett\CsDependencyAnalysis\SemiExp\bin\Debug\Toker.pdb
+C:\github\JimFawcett\CsDependencyAnalysis\SemiExp\bin\Debug\Toker.dll.config
+C:\github\JimFawcett\CsDependencyAnalysis\SemiExp\obj\Debug\SemiExp.csprojAssemblyReference.cache
+C:\github\JimFawcett\CsDependencyAnalysis\SemiExp\obj\Debug\SemiExp.csproj.CopyComplete
+C:\github\JimFawcett\CsDependencyAnalysis\SemiExp\obj\Debug\SemiExp.dll
+C:\github\JimFawcett\CsDependencyAnalysis\SemiExp\obj\Debug\SemiExp.pdb

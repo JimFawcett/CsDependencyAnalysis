@@ -21,3 +21,12 @@ C:\su\temp\CsProject3-InstrSolF2018\Display\obj\Debug\Display.csproj.CoreCompile
 C:\su\temp\CsProject3-InstrSolF2018\Display\obj\Debug\Display.csproj.CopyComplete
 C:\su\temp\CsProject3-InstrSolF2018\Display\obj\Debug\Display.dll
 C:\su\temp\CsProject3-InstrSolF2018\Display\obj\Debug\Display.pdb
+C:\github\JimFawcett\CsDependencyAnalysis\Display\bin\Debug\Display.dll.config
+C:\github\JimFawcett\CsDependencyAnalysis\Display\bin\Debug\Display.dll
+C:\github\JimFawcett\CsDependencyAnalysis\Display\bin\Debug\Display.pdb
+C:\github\JimFawcett\CsDependencyAnalysis\Display\bin\Debug\Element.dll
+C:\github\JimFawcett\CsDependencyAnalysis\Display\bin\Debug\Element.pdb
+C:\github\JimFawcett\CsDependencyAnalysis\Display\obj\Debug\Display.csprojAssemblyReference.cache
+C:\github\JimFawcett\CsDependencyAnalysis\Display\obj\Debug\Display.csproj.CopyComplete
+C:\github\JimFawcett\CsDependencyAnalysis\Display\obj\Debug\Display.dll
+C:\github\JimFawcett\CsDependencyAnalysis\Display\obj\Debug\Display.pdb

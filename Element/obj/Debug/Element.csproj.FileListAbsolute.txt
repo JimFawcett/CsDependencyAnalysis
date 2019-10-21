@@ -4,3 +4,8 @@ C:\su\temp\CsProject3-InstrSolF2018\Element\obj\Debug\Element.csprojAssemblyRefe
 C:\su\temp\CsProject3-InstrSolF2018\Element\obj\Debug\Element.csproj.CoreCompileInputs.cache
 C:\su\temp\CsProject3-InstrSolF2018\Element\obj\Debug\Element.dll
 C:\su\temp\CsProject3-InstrSolF2018\Element\obj\Debug\Element.pdb
+C:\github\JimFawcett\CsDependencyAnalysis\Element\bin\Debug\Element.dll
+C:\github\JimFawcett\CsDependencyAnalysis\Element\bin\Debug\Element.pdb
+C:\github\JimFawcett\CsDependencyAnalysis\Element\obj\Debug\Element.csprojAssemblyReference.cache
+C:\github\JimFawcett\CsDependencyAnalysis\Element\obj\Debug\Element.dll
+C:\github\JimFawcett\CsDependencyAnalysis\Element\obj\Debug\Element.pdb

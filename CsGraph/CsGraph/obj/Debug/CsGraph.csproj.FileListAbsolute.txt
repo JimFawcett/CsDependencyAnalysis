@@ -10,3 +10,8 @@ C:\su\temp\CsProject3-InstrSolF2018\CsGraph\CsGraph\obj\Debug\CsGraph.csprojAsse
 C:\su\temp\CsProject3-InstrSolF2018\CsGraph\CsGraph\obj\Debug\CsGraph.csproj.CoreCompileInputs.cache
 C:\su\temp\CsProject3-InstrSolF2018\CsGraph\CsGraph\obj\Debug\CsGraph.exe
 C:\su\temp\CsProject3-InstrSolF2018\CsGraph\CsGraph\obj\Debug\CsGraph.pdb
+C:\github\JimFawcett\CsDependencyAnalysis\CsGraph\CsGraph\bin\Debug\CsGraph.exe
+C:\github\JimFawcett\CsDependencyAnalysis\CsGraph\CsGraph\bin\Debug\CsGraph.pdb
+C:\github\JimFawcett\CsDependencyAnalysis\CsGraph\CsGraph\obj\Debug\CsGraph.csprojAssemblyReference.cache
+C:\github\JimFawcett\CsDependencyAnalysis\CsGraph\CsGraph\obj\Debug\CsGraph.exe
+C:\github\JimFawcett\CsDependencyAnalysis\CsGraph\CsGraph\obj\Debug\CsGraph.pdb

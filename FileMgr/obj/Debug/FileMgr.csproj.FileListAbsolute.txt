@@ -4,3 +4,8 @@ C:\su\temp\CsProject3-InstrSolF2018\FileMgr\obj\Debug\FileMgr.csprojAssemblyRefe
 C:\su\temp\CsProject3-InstrSolF2018\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
 C:\su\temp\CsProject3-InstrSolF2018\FileMgr\obj\Debug\Navigate.dll
 C:\su\temp\CsProject3-InstrSolF2018\FileMgr\obj\Debug\Navigate.pdb
+C:\github\JimFawcett\CsDependencyAnalysis\FileMgr\bin\Debug\Navigate.dll
+C:\github\JimFawcett\CsDependencyAnalysis\FileMgr\bin\Debug\Navigate.pdb
+C:\github\JimFawcett\CsDependencyAnalysis\FileMgr\obj\Debug\FileMgr.csprojAssemblyReference.cache
+C:\github\JimFawcett\CsDependencyAnalysis\FileMgr\obj\Debug\Navigate.dll
+C:\github\JimFawcett\CsDependencyAnalysis\FileMgr\obj\Debug\Navigate.pdb
