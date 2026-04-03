@@ -350,8 +350,10 @@ namespace Lexer
       }
     }
   }
+}
 
 #if (TEST_SEMI)
+namespace Lexer {
 
   class TestSemi
   {

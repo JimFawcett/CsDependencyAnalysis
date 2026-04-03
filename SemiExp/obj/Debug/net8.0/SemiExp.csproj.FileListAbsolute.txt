@@ -1,0 +1,16 @@
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net8.0\SemiExp.GeneratedMSBuildEditorConfig.editorconfig
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net8.0\SemiExp.csproj.CoreCompileInputs.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net8.0\SemiExp.sourcelink.json
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\bin\Debug\net8.0\SemiExp.dll.config
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\bin\Debug\net8.0\SemiExp.deps.json
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\bin\Debug\net8.0\SemiExp.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\bin\Debug\net8.0\SemiExp.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\bin\Debug\net8.0\Toker.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\bin\Debug\net8.0\Toker.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\bin\Debug\net8.0\Toker.dll.config
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net8.0\SemiExp.csproj.AssemblyReference.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net8.0\SemiExp.csproj.Up2Date
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net8.0\SemiExp.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net8.0\refint\SemiExp.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net8.0\SemiExp.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net8.0\ref\SemiExp.dll

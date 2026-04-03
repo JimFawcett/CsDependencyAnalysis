@@ -1,0 +1,14 @@
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TestHarness\bin\Debug\net8.0\TestHarness.exe
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TestHarness\bin\Debug\net8.0\TestHarness.dll.config
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TestHarness\bin\Debug\net8.0\TestHarness.deps.json
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TestHarness\bin\Debug\net8.0\TestHarness.runtimeconfig.json
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TestHarness\bin\Debug\net8.0\TestHarness.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TestHarness\bin\Debug\net8.0\TestHarness.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TestHarness\obj\Debug\net8.0\TestHarness.GeneratedMSBuildEditorConfig.editorconfig
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TestHarness\obj\Debug\net8.0\TestHarness.csproj.CoreCompileInputs.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TestHarness\obj\Debug\net8.0\TestHarness.sourcelink.json
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TestHarness\obj\Debug\net8.0\TestHarness.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TestHarness\obj\Debug\net8.0\refint\TestHarness.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TestHarness\obj\Debug\net8.0\TestHarness.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TestHarness\obj\Debug\net8.0\TestHarness.genruntimeconfig.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TestHarness\obj\Debug\net8.0\ref\TestHarness.dll

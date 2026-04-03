@@ -1,0 +1,97 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DemoReqs/1.0.0": {
+        "dependencies": {
+          "Navigate": "1.0.0",
+          "SemiExp": "1.0.0",
+          "TestHarness": "1.0.0",
+          "Toker": "1.0.0",
+          "Navigate.Reference": "1.0.9587.20118"
+        },
+        "runtime": {
+          "DemoReqs.dll": {}
+        }
+      },
+      "Navigate/1.0.0": {
+        "runtime": {
+          "Navigate.dll": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "SemiExp/1.0.0": {
+        "dependencies": {
+          "Toker": "1.0.0"
+        },
+        "runtime": {
+          "SemiExp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TestHarness/1.0.0": {
+        "runtime": {
+          "TestHarness.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Toker/1.0.0": {
+        "runtime": {
+          "Toker.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Navigate.Reference/1.0.9587.20118": {
+        "runtime": {
+          "Navigate.dll": {
+            "assemblyVersion": "1.0.9587.20118",
+            "fileVersion": "1.0.9587.20118"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoReqs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Navigate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SemiExp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestHarness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Toker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Navigate.Reference/1.0.9587.20118": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

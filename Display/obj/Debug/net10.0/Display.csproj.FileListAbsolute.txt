@@ -1,0 +1,15 @@
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Display\bin\Debug\net10.0\Display.dll.config
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Display\bin\Debug\net10.0\Display.deps.json
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Display\bin\Debug\net10.0\Display.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Display\bin\Debug\net10.0\Display.pdb
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Display\bin\Debug\net10.0\Element.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Display\bin\Debug\net10.0\Element.pdb
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Display\obj\Debug\net10.0\Display.csproj.AssemblyReference.cache
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Display\obj\Debug\net10.0\Display.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Display\obj\Debug\net10.0\Display.csproj.CoreCompileInputs.cache
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Display\obj\Debug\net10.0\Display.sourcelink.json
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Display\obj\Debug\net10.0\Display.csproj.Up2Date
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Display\obj\Debug\net10.0\Display.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Display\obj\Debug\net10.0\refint\Display.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Display\obj\Debug\net10.0\Display.pdb
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Display\obj\Debug\net10.0\ref\Display.dll

@@ -1,0 +1,10 @@
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Element\bin\Debug\net10.0\Element.deps.json
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Element\bin\Debug\net10.0\Element.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Element\bin\Debug\net10.0\Element.pdb
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Element\obj\Debug\net10.0\Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Element\obj\Debug\net10.0\Element.csproj.CoreCompileInputs.cache
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Element\obj\Debug\net10.0\Element.sourcelink.json
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Element\obj\Debug\net10.0\Element.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Element\obj\Debug\net10.0\refint\Element.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Element\obj\Debug\net10.0\Element.pdb
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Element\obj\Debug\net10.0\ref\Element.dll

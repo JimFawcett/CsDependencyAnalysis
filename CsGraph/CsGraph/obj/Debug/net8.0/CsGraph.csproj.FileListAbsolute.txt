@@ -1,0 +1,13 @@
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\CsGraph\CsGraph\bin\Debug\net8.0\CsGraph.exe
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\CsGraph\CsGraph\bin\Debug\net8.0\CsGraph.deps.json
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\CsGraph\CsGraph\bin\Debug\net8.0\CsGraph.runtimeconfig.json
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\CsGraph\CsGraph\bin\Debug\net8.0\CsGraph.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\CsGraph\CsGraph\bin\Debug\net8.0\CsGraph.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\CsGraph\CsGraph\obj\Debug\net8.0\CsGraph.GeneratedMSBuildEditorConfig.editorconfig
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\CsGraph\CsGraph\obj\Debug\net8.0\CsGraph.csproj.CoreCompileInputs.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\CsGraph\CsGraph\obj\Debug\net8.0\CsGraph.sourcelink.json
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\CsGraph\CsGraph\obj\Debug\net8.0\CsGraph.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\CsGraph\CsGraph\obj\Debug\net8.0\refint\CsGraph.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\CsGraph\CsGraph\obj\Debug\net8.0\CsGraph.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\CsGraph\CsGraph\obj\Debug\net8.0\CsGraph.genruntimeconfig.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\CsGraph\CsGraph\obj\Debug\net8.0\ref\CsGraph.dll

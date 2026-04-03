@@ -1,0 +1,24 @@
+ToDo
+===================
+09. Add namespace analysis - mostly done, all data handling in place
+10. Additional refactoring
+
+Done
+===================
+01. treat underscore '_' as a letter
+02. factor into:
+    - TestExec
+    - Toker
+    - TokenContext
+    - TokenState
+    - DerivedStates
+    - TokenSource
+03. Add SemiExp
+04. Remove Namespace and Class analyses before posting to college server
+05. Fails on TestCase_EligibleCheck.cs
+    - problem was @"..." format for C# strings
+    - now fixed
+06. Add type analysis
+07. add depenency analysis
+08. add strong component analysis
+ 

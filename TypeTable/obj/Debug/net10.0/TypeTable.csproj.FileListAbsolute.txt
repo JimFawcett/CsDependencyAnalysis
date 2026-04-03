@@ -1,0 +1,11 @@
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TypeTable\bin\Debug\net10.0\TypeTable.dll.config
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TypeTable\bin\Debug\net10.0\TypeTable.deps.json
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TypeTable\bin\Debug\net10.0\TypeTable.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TypeTable\bin\Debug\net10.0\TypeTable.pdb
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TypeTable\obj\Debug\net10.0\TypeTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TypeTable\obj\Debug\net10.0\TypeTable.csproj.CoreCompileInputs.cache
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TypeTable\obj\Debug\net10.0\TypeTable.sourcelink.json
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TypeTable\obj\Debug\net10.0\TypeTable.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TypeTable\obj\Debug\net10.0\refint\TypeTable.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TypeTable\obj\Debug\net10.0\TypeTable.pdb
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\TypeTable\obj\Debug\net10.0\ref\TypeTable.dll

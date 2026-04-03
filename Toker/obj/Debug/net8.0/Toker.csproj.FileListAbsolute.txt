@@ -1,0 +1,11 @@
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Toker\obj\Debug\net8.0\Toker.GeneratedMSBuildEditorConfig.editorconfig
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Toker\obj\Debug\net8.0\Toker.csproj.CoreCompileInputs.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Toker\obj\Debug\net8.0\Toker.sourcelink.json
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Toker\bin\Debug\net8.0\Toker.dll.config
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Toker\bin\Debug\net8.0\Toker.deps.json
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Toker\bin\Debug\net8.0\Toker.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Toker\bin\Debug\net8.0\Toker.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Toker\obj\Debug\net8.0\Toker.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Toker\obj\Debug\net8.0\refint\Toker.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Toker\obj\Debug\net8.0\Toker.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\Toker\obj\Debug\net8.0\ref\Toker.dll

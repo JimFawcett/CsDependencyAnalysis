@@ -1,0 +1,10 @@
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\FileMgr\bin\Debug\net8.0\Navigate.deps.json
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\FileMgr\bin\Debug\net8.0\Navigate.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\FileMgr\bin\Debug\net8.0\Navigate.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\FileMgr\obj\Debug\net8.0\FileMgr.GeneratedMSBuildEditorConfig.editorconfig
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\FileMgr\obj\Debug\net8.0\FileMgr.csproj.CoreCompileInputs.cache
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\FileMgr\obj\Debug\net8.0\FileMgr.sourcelink.json
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\FileMgr\obj\Debug\net8.0\Navigate.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\FileMgr\obj\Debug\net8.0\refint\Navigate.dll
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\FileMgr\obj\Debug\net8.0\Navigate.pdb
+c:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\FileMgr\obj\Debug\net8.0\ref\Navigate.dll

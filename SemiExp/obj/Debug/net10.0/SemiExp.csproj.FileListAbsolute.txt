@@ -1,0 +1,16 @@
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\bin\Debug\net10.0\SemiExp.dll.config
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\bin\Debug\net10.0\SemiExp.deps.json
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\bin\Debug\net10.0\SemiExp.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\bin\Debug\net10.0\SemiExp.pdb
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\bin\Debug\net10.0\Toker.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\bin\Debug\net10.0\Toker.pdb
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\bin\Debug\net10.0\Toker.dll.config
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net10.0\SemiExp.csproj.AssemblyReference.cache
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net10.0\SemiExp.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net10.0\SemiExp.csproj.CoreCompileInputs.cache
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net10.0\SemiExp.sourcelink.json
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net10.0\SemiExp.csproj.Up2Date
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net10.0\SemiExp.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net10.0\refint\SemiExp.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net10.0\SemiExp.pdb
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\SemiExp\obj\Debug\net10.0\ref\SemiExp.dll

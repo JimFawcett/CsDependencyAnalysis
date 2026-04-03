@@ -879,8 +879,10 @@ namespace Lexer
       return fs_.EndOfStream;
     }
   }
+}
 
 #if(TEST_TOKER)
+namespace Lexer {
 
   class DemoToker
   {

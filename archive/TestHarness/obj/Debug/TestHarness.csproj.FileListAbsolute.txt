@@ -1,0 +1,7 @@
+C:\su\temp\CsProject3-InstrSolF2018\TestHarness\bin\Debug\TestHarness.exe.config
+C:\su\temp\CsProject3-InstrSolF2018\TestHarness\bin\Debug\TestHarness.exe
+C:\su\temp\CsProject3-InstrSolF2018\TestHarness\bin\Debug\TestHarness.pdb
+C:\su\temp\CsProject3-InstrSolF2018\TestHarness\obj\Debug\TestHarness.csprojAssemblyReference.cache
+C:\su\temp\CsProject3-InstrSolF2018\TestHarness\obj\Debug\TestHarness.csproj.CoreCompileInputs.cache
+C:\su\temp\CsProject3-InstrSolF2018\TestHarness\obj\Debug\TestHarness.exe
+C:\su\temp\CsProject3-InstrSolF2018\TestHarness\obj\Debug\TestHarness.pdb

@@ -1,0 +1,11 @@
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\DependencyTable\bin\Debug\net10.0\DependencyTable.dll.config
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\DependencyTable\bin\Debug\net10.0\DependencyTable.deps.json
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\DependencyTable\bin\Debug\net10.0\DependencyTable.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\DependencyTable\bin\Debug\net10.0\DependencyTable.pdb
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\DependencyTable\obj\Debug\net10.0\DependencyTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\DependencyTable\obj\Debug\net10.0\DependencyTable.csproj.CoreCompileInputs.cache
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\DependencyTable\obj\Debug\net10.0\DependencyTable.sourcelink.json
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\DependencyTable\obj\Debug\net10.0\DependencyTable.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\DependencyTable\obj\Debug\net10.0\refint\DependencyTable.dll
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\DependencyTable\obj\Debug\net10.0\DependencyTable.pdb
+C:\github\JimFawcett\NewSite\Code\C#\CsDependencyAnalysis\DependencyTable\obj\Debug\net10.0\ref\DependencyTable.dll

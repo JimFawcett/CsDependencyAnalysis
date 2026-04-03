@@ -1,0 +1,177 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DemoExecutive/1.0.0": {
+        "dependencies": {
+          "CsGraph": "1.0.0",
+          "DependencyTable": "1.0.0",
+          "Display": "1.0.0",
+          "Element": "1.0.0",
+          "Navigate": "1.0.0",
+          "Parser": "1.0.0",
+          "SemiExp": "1.0.0",
+          "Toker": "1.0.0",
+          "Navigate.Reference": "1.0.9589.18895"
+        },
+        "runtime": {
+          "DemoExecutive.dll": {}
+        }
+      },
+      "CsGraph/1.0.0": {
+        "runtime": {
+          "CsGraph.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DependencyTable/1.0.0": {
+        "runtime": {
+          "DependencyTable.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Display/1.0.0": {
+        "dependencies": {
+          "Element": "1.0.0"
+        },
+        "runtime": {
+          "Display.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Element/1.0.0": {
+        "runtime": {
+          "Element.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Navigate/1.0.0": {
+        "runtime": {
+          "Navigate.dll": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Parser/1.0.0": {
+        "dependencies": {
+          "DependencyTable": "1.0.0",
+          "Display": "1.0.0",
+          "Element": "1.0.0",
+          "SemiExp": "1.0.0",
+          "Toker": "1.0.0",
+          "TypeTable": "1.0.0"
+        },
+        "runtime": {
+          "Parser.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SemiExp/1.0.0": {
+        "dependencies": {
+          "Toker": "1.0.0"
+        },
+        "runtime": {
+          "SemiExp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Toker/1.0.0": {
+        "runtime": {
+          "Toker.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TypeTable/1.0.0": {
+        "runtime": {
+          "TypeTable.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Navigate.Reference/1.0.9589.18895": {
+        "runtime": {
+          "Navigate.dll": {
+            "assemblyVersion": "1.0.9589.18895",
+            "fileVersion": "1.0.9589.18895"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoExecutive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsGraph/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DependencyTable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Display/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Element/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Navigate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Parser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SemiExp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Toker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TypeTable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Navigate.Reference/1.0.9589.18895": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
